@@ -1,7 +1,7 @@
 # Broken-Captcha
 ### Contents
 - [Khái niệm Broken-Captcha](https://github.com/chi442000/broken-captcha#Concept)
-- [Khai thác](https://github.com/chi442000/broken-captcha#exploit)
+- [Khai thác](https://github.com/chi442000/broken-captcha#Exploit)
 ### Concept
 Đây là lỗ hổng cho phép captcha có thể dùng lại được nhiều lần. Điều này là cực kì nguy hiểm khi kẻ tấn công có thể thực hiện tấn công Brute Force để dò mật khẩu.
 ### Exploit
